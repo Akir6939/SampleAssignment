@@ -11,6 +11,9 @@ void draw()
   fill(0,0,0);
   ellipse(85,40,10,15);
   ellipse(115,40,10,15);
+  textSize(24);
+  fill(255,0,0);
+  text("SMILE FACE",50,50);
 }
 
 
